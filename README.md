@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ESWAR CHANDRASHEKAR BRAMMADEVU</h1>
 <h3 align="center">Software Developer and AI & ML | Full-Stack Developer | Specializing in JavaScript, Python, and Node.js | Web Design And Developer |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eswar-hub-c&label=Profile%20views&color=0e75b6&style=flat" alt="eswar-hub-c" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=eswar-hub-c&label=Profile%20views&color=0e75b6&style=flat](https://media.licdn.com/dms/image/v2/D4E03AQF7_evaZ7yKBw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725356632670?e=1735776000&v=beta&t=dG0TZwZr4eVgCispumSvNnUjSKdRiqo4diG3Hh1VK_I)" alt="eswar-hub-c" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eswar-hub-c" alt="eswar-hub-c" /></a> </p>
 
