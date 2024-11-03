@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm ESWAR CHANDRASHEKAR BRAMMADEVU</h1>
 <h3 align="center">Software Developer and AI & ML | Full-Stack Developer | Specializing in JavaScript, Python, and Node.js | Web Design And Developer |</h3>
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iss.nus.edu.sg%2Fcommunity%2Fnewsroom%2Fnews-detail%2F2021%2F07%2F26%2F7-habits-of-highly-effective-software-developers&psig=AOvVaw3vxtVqA3q8IiFfPz0_WbgW&ust=1730128781171000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC15IzurokDFQAAAAAdAAAAABAE" alt="eswar-hub-c" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eswar-hub-c" alt="eswar-hub-c" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **FANTASY DEVELOPER**
 
 - 🌱 I’m currently learning **ANGULAR , JAVA SCRIPT, REACT JS,**
